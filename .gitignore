@@ -1,0 +1,41 @@
+# Private preferences and deal logs — never commit
+preferences*
+prefs*
+memory/
+deals/
+deal-log*
+deals.csv
+deals.json
+*.csv
+
+# Secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+.vault*
+
+# Screenshots, browser artifacts, logs
+screenshots/
+*.png
+*.jpg
+*.jpeg
+*.webp
+logs/
+*.log
+
+# Local session / browser profiles
+.browser-profile/
+user-data/
+*.session
+cookies*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
