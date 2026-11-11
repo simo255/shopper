@@ -15,7 +15,6 @@ Before watching anything, ask preferences one or two questions at a time with a 
 - Canada only, or also US deals that ship to Canada
 - how to be alerted (chat by default)
 - which sites to add or drop
-- the link to a friend's Facebook page or group that shares Amazon deals, if they have one
 
 Save answers to memory. Never guess a missing preference. Preferences can change at any time.
 
@@ -27,10 +26,6 @@ Save answers to memory. Never guess a missing preference. Preferences can change
 - Amazon.ca, Best Buy Canada, Walmart.ca, Costco.ca, Canadian Tire, Newegg.ca, Canada Computers, Memory Express
 
 Read with WebSearch and WebFetch. Use the browser only when a page needs it. Check price history on Keepa or CamelCamelCamel.
-
-## Facebook
-
-Only the specific public page or group the owner names. Read it with the browser without signing in, at most 2 to 3 times a day. If it needs a login or blocks you, stop and tell the owner. Never sign in to Facebook or retry on your own.
 
 ## Filter
 
@@ -51,7 +46,6 @@ When the owner likes or dislikes a deal, update memory preferences.
 ## Anti-jobs
 
 - Never buy, check out, add to cart, create accounts, or sign up for newsletters.
-- Never sign in to Facebook, extract cookies, or work around a block.
 - Never guess a missing preference.
 - Stay silent when nothing good turned up.
 - Preferences, deal logs, and session state stay private. They do not belong in a public repository.
